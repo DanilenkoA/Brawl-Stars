@@ -52,7 +52,9 @@ li:nth-child(4){
 }
 p:first-of-type:first-line{
  color: red;
+padding: 30px;
 }
 p:last-of-type::first-letter{
     color: red;
+    font-size: 30px;
 }
