@@ -1,0 +1,44 @@
+.laber-top{
+    position: absolute;
+    top: 5px;
+    right: 5px; 
+    
+}
+.ok{
+    background-color: black;
+}
+.a{
+    font-family: 'Inconsolata', monospace;
+
+}.b{
+    width: 200px;
+    height: 200px;
+}
+
+.c{
+    background:url(fone.jpg);
+}
+.d{
+    background:url(fone5.jpg);
+    
+}
+.e{
+    background:url(fone7.jpg);
+    color: white;
+}
+.f{
+    background:url(fone10.jpg);
+    color:white;
+}
+body{
+    background:black;
+
+}
+.o{
+    color: white;
+}
+.q{
+    width: 250px;
+    height: 100px;
+}
+ 
