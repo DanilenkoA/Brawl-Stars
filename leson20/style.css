@@ -1,0 +1,195 @@
+.imgheader{
+    Width:131px;
+    Height:52px;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.vertical{
+    border-left: 2px solid #ccc; /* Параметры линии */ 
+    margin-left: 15px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+    display: inline;
+    height: 15px;
+}
+.header-inner{
+    display: flex;  
+    align-items: center;
+    width: 100%;
+    borde: 2px solid rgb(70, 66, 66);
+    padding: 10px;
+    justify-content: space-between;
+   
+}
+.language{
+    border-left: 2px solid #ccc; /* Параметры линии */ 
+    margin: 15px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+    display: inline;
+    height: 55px;
+    display: inline-block;
+    font-size: 7px;
+    margin: 5px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+.money{
+    border-left: 2px solid #ccc; /* Параметры линии */ 
+    margin-left: 15px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+    display: inline;
+    height: 55px;
+    display: inline-block;
+    font-size: 7px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin: 10px;
+color: grey;
+}
+.social{
+   
+    border-left: 2px solid #ccc; /* Параметры линии */ 
+    margin-left: 15px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+    display: flex;
+    height: 55px;
+    color: rgb(73, 74, 75);
+    align-items: center;
+    margin: 7px;
+    
+  
+  
+}
+.social>i{
+    padding-left: 20px;
+}
+.nomber{
+    border-left: 2px solid #ccc; /* Параметры линии */ 
+    margin-left: 15px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+    display: inline;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    font-size: 7px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin: 10px;
+
+
+}
+.fa-mobile{
+    font-size: 30px;
+    color: gray;
+    display: inline-block;
+}
+.blok1{
+    border-left: 2px solid #ccc; /* Параметры линии */ 
+    margin-left: 15px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+    display: inline;
+    height: 55px;
+    width: 240px;
+    height: 55px;
+    background-color: rgb(245, 245, 245); 
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin: 8px;
+}
+.btn{
+    background-color: red;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin: 7px;
+    width: 30px;
+    height: 30px;
+}
+.button{
+    display: inline-block;
+}
+.fa-calendar-check{
+    color: white;
+   
+}
+.blok2{
+    background-color:rgb(245, 245, 245); 
+    width: 240px;
+    height: 55px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+
+.ok{
+    background-color: rgb(53, 170, 53);
+    color: white;
+    width: 30px;
+    height: 30px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+.text-mein{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+  
+
+}
+.go{
+    margin:10px ;
+    width:100%;
+    font-size: 20px;
+    text-align: center;
+    
+}
+li{
+    list-style-type: none ; 
+}
+.img-mein{
+    width: 100%;
+    Height:501.62px;
+}
+.intro{
+    background: url(./maxresdefault\ \(1\)\ 2.png) no-repeat center;
+    background-size: cover;
+    height: 500px;
+}
+.intro-text{
+    color: white;
+    border:  2px solid;
+    width: 300px;
+    padding: 5px;
+    text-align: center;
+    
+    
+}
+.intro-text-2{
+    color: white;
+    width: 570px;
+    padding: 5px;
+    text-align: center;
+    
+}
+.intro-text-3{
+  color: white;
+  display: flex;
+  width: 200px;
+  height: 100px;
+  background-color:rgba(245, 239, 239, 0.5);
+ align-items:  center;
+ justify-content: center;
+ font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
